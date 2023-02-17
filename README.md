@@ -1,8 +1,10 @@
-# :city_sunset:	 Gallery Project
+﻿<h1 align="center">
+ 🐘🌄🌇<br>Gallery Project
+</h1>
 
 ![IMG_20230217_174715](https://user-images.githubusercontent.com/112827620/219790304-ce48bde2-fdc0-47de-807a-beb719d65e8b.jpg)
 
-# ▶️ <a href="https://galleryproject-cavdrew.netlify.app/">Clique aqui para visualizar o projeto</a>
+#  <h2 align="center">▶️ <a href="https://galleryproject-cavdrew.netlify.app/">Clique aqui para visualizar o projeto</a></h2>
 
 
 ## 🛠 Technologies used
@@ -24,7 +26,7 @@
 <img src="https://media.licdn.com/dms/image/D4D03AQFY72N29-ZQKg/profile-displayphoto-shrink_200_200/0/1674579720006?e=1681948800&v=beta&t=L596gRDnyPRtfWdcobzRqn0vWfQO9qwgT23fvYVCKHo" width="120px;" alt="Ulysses"/><br>
 
 <sub>
-<h3><b>Carlos André</b></h3>
+  <h3><b><a href="https://github.com/cavdrew">Carlos André</a></b></h3>
 </sub>
 
 </a>
