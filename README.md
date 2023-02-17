@@ -16,20 +16,16 @@
 <h2>📌 Autor</h2>
 
 <table>
-
 <tr>
-
 <td align="center">
-
 <a href="https://github.com/cavdrew">
-
 <img src="https://media.licdn.com/dms/image/D4D03AQFY72N29-ZQKg/profile-displayphoto-shrink_200_200/0/1674579720006?e=1681948800&v=beta&t=L596gRDnyPRtfWdcobzRqn0vWfQO9qwgT23fvYVCKHo" width="120px;" alt="Ulysses"/><br>
 
 <sub>
   <h3><b><a href="https://github.com/cavdrew">Carlos André</a></b></h3>
 </sub>
-
 </a>
+ </table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,3 +33,4 @@
 <a href="https://instagram.com/cavdrew_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cavdrew_" height="30" width="40" /></a>
 <a href="https://github.com/cavdrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="cavdrew_" height="30" width="40" /></a>
 </p>
+
